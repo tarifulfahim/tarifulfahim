@@ -5,19 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarifulfahim" alt="tarifulfahim" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Machine Learning**
-
-- 🤝 I’m looking for help with **Machine Learning**
-
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me **tarifulislamfahim12@gmail.com**
-
-- ⚡ Fun fact **I am Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
